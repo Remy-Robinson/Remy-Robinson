@@ -35,4 +35,39 @@ Right now, I’m diving deeper into:
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ### Tools & Frameworks  
-![Arduino](https://img.shields.io)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Web Stack (Learning)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🧠 **Interactive Jarvis Table** | Python, JS, OpenCV | Gesture-controlled projection system using webcam & projector |
+| ⚙️ **Autonomous Object-Handling Bot** | C++, Sensors | Robot with color and distance sensors for autonomous sorting |
+| ✈️ **Blurify** | Python, PyTorch, OpenCV, Flask | Web platform that uses a PyTorch ML model for real-time detection / blurring of sensitive information |
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out or connect — always open to sharing ideas, learning something new, or collaborating on cool projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/remy-robinson"><img src="https://img.shields.io/badge/LinkedIn-Remy%20Robinson-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:remy.robinson@email.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-green?style=flat&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=100&section=footer" />
+</p>
