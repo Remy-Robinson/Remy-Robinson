@@ -3,7 +3,7 @@
 <p align="center">
   Innovating at the intersection of hardware, software, and design.<br>
   <strong>📍 Computer Engineering @ McMaster University</strong><br>
-  <strong>⚙️ Embedded Systems | 🤖 Robotics | 🌐 Full Stack Dev</strong>
+  <strong> Mostly building with microcontrollers, AI, and creating stuff on the web.</strong>
 </p>
 
 <p align="center">
