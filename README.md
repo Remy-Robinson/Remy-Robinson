@@ -51,7 +51,7 @@ Right now, I’m diving deeper into:
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 🧠 **Interactive Jarvis Table** | Python, JS, OpenCV | Gesture-controlled projection system using webcam & projector |
+| 🧠 **Interactive Jarvis Table [in progress]** | Python, JS, OpenCV | Gesture-controlled projection system using webcam & projector |
 | ⚙️ **Autonomous Object-Handling Bot** | C++, Sensors | Robot with color and distance sensors for autonomous sorting |
 | ✈️ **Blurify** | Python, PyTorch, OpenCV, Flask | Web platform that uses a PyTorch ML model for real-time detection / blurring of sensitive information |
 
