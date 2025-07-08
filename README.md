@@ -14,11 +14,11 @@
 
 ### 🧠 About Me
 
-I'm a curious builder who enjoys mixing tech and creativity — whether it's prototyping with Arduino, working with machine learning, or building smart user interfaces.
+I'm a curious builder who enjoys mixing tech and creativity! whether it's prototyping with Arduino, working with machine learning, or building smart user interfaces.
 
 Right now, I’m diving deeper into:
 - Gesture-based interaction systems
-- Arduino-powered embedded devices
+- PCB Development
 - Full-stack development (React, Django, MongoDB)
 - AI for real-time sensory processing
 
