@@ -63,7 +63,7 @@ Feel free to reach out or connect — always open to sharing ideas, learning som
 
 <p align="center">
   <a href="https://www.linkedin.com/in/remy-robinson"><img src="https://img.shields.io/badge/LinkedIn-Remy%20Robinson-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:remy.robinson@email.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-green?style=flat&logo=gmail" /></a>
+  <a href="mailto:remyrobinson17@gmail.com.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-green?style=flat&logo=gmail" /></a>
 </p>
 
 ---
