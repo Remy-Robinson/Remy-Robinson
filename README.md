@@ -5,11 +5,6 @@
   <strong>📍 Computer Engineering @ McMaster University</strong><br>
   <strong> Mostly building with microcontrollers and creating web projects.</strong>
 </p>
-
-<p align="center">
-  <em>I like making things that blink, move, react, and solve real problems.</em>
-</p>
-
 ---
 
 ### 🧠 About Me
