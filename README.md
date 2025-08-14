@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Remy 👋</h1>
 
 <p align="center">
-  Welcome to my profile! I am passionate about bridging circuits, code, and interfaces to create cool projects!<br>
+  Welcome to my profile!  I'm always trying to learn and build new things! <br>
   <strong>📍 Computer Engineering @ McMaster University</strong><br>
   <strong> Mostly building with microcontrollers and creating web projects.</strong>
 </p>
