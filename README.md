@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Remy 👋</h1>
 
 <p align="center">
-  Innovating at the intersection of hardware, software, and design.<br>
+  Welcome to my profile! I am passionate about bridging circuits, code, and interfaces to create cool projects!<br>
   <strong>📍 Computer Engineering @ McMaster University</strong><br>
-  <strong> Mostly building with microcontrollers, AI, and creating stuff on the web.</strong>
+  <strong> Mostly building with microcontrollers and creating web projects.</strong>
 </p>
 
 <p align="center">
