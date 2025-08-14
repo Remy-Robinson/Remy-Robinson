@@ -5,8 +5,6 @@
   <strong>📍 Computer Engineering @ McMaster University</strong><br>
   <strong> Mostly building with microcontrollers and creating web projects.</strong>
 </p>
----
-
 ### 🧠 About Me
 
 I'm a curious builder who enjoys mixing tech and creativity! whether it's prototyping with Arduino, working with machine learning, or building smart user interfaces.
@@ -14,7 +12,7 @@ I'm a curious builder who enjoys mixing tech and creativity! whether it's protot
 Right now, I’m diving deeper into:
 - Gesture-based interaction systems
 - PCB Development
-- Full-stack development (React, Django, MongoDB)
+- Full-stack development
 - AI for real-time sensory processing
 
 ---
